@@ -2,7 +2,7 @@
 
 Cloud platform engineer. Personal site, served as a single static page.
 
-**Live:** https://shanmukh0410.github.io *(update if the repo name changes)*
+**Live:** https://shanmukh0410.github.io/portfolio/
 
 ## What's here
 
